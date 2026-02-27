@@ -1,0 +1,2 @@
+# Geospatial-Analysis-of-Urban-Crime-Using-Python-A-Case-Study-of-Los-Angeles-2020-Present-
+This project analyses crime incidents in Los Angeles using data from the Los Angeles Police Department open crime dataset available on Data.gov. The objective is to explore crime trends, spatial patterns as well as demographic characteristics of victims through data cleaning, exploratory analysis and geospatial visualization. 
